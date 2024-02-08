@@ -1,4 +1,4 @@
-public class noelement
+public class length
     //Find the number of elements in the given array
 
     {
