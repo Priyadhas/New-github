@@ -4,7 +4,7 @@ public class length
     {
         public static void main(String[] args)
         {
-            int a[]={12,23,34,45,5,10};
+            int a[]={12,23,34,45,5};
             System.out.print(a.length);
         }
     }
