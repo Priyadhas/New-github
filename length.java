@@ -6,5 +6,6 @@ public class length
         {
             int a[]={12,23,34,45,5,67,54,90,76};
             System.out.print(a.length);
+            System.out.println("the length is found");
         }
     }
